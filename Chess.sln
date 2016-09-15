@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chess", "Chess.vcxproj", "{1F73B5BF-F717-3241-8479-4F04B22B7D96}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FIR", "..\FIR\FIR.vcxproj", "{DBDD0968-B06B-302C-A3A4-35E43CE2F3DF}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -15,10 +13,6 @@ Global
 		{1F73B5BF-F717-3241-8479-4F04B22B7D96}.Debug|Win32.Build.0 = Debug|Win32
 		{1F73B5BF-F717-3241-8479-4F04B22B7D96}.Release|Win32.ActiveCfg = Release|Win32
 		{1F73B5BF-F717-3241-8479-4F04B22B7D96}.Release|Win32.Build.0 = Release|Win32
-		{DBDD0968-B06B-302C-A3A4-35E43CE2F3DF}.Debug|Win32.ActiveCfg = Debug|Win32
-		{DBDD0968-B06B-302C-A3A4-35E43CE2F3DF}.Debug|Win32.Build.0 = Debug|Win32
-		{DBDD0968-B06B-302C-A3A4-35E43CE2F3DF}.Release|Win32.ActiveCfg = Release|Win32
-		{DBDD0968-B06B-302C-A3A4-35E43CE2F3DF}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
